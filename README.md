@@ -20,4 +20,17 @@ Developed a cargo company database and application for adding and  management ca
 
 **Logging System:** After the cargo is delivered to the branch, employees enter a log into the system for each step it takes. First of all, when the branch receives the cargo, the system automatically creates the first Log specific to that cargo ID. In each subsequent step, employees update the Log with their IDs.
 
+## Details of UI
 
+### Login Menu and Panel
+
+
+
+### Admin and Employee System
+
+
+
+### Customer Section
+
+
+### Cargo Check Menu
