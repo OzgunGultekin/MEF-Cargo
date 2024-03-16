@@ -19,18 +19,3 @@ Developed a cargo company database and application for adding and  management ca
 **Distribution Center System:** Distribution Centers, which have a crucial place in cargo distribution, are controlled by the Admin System in the project. Distribution centers can be added to the system by the Admin, and the admin can also add employees to that distribution center.
 
 **Logging System:** After the cargo is delivered to the branch, employees enter a log into the system for each step it takes. First of all, when the branch receives the cargo, the system automatically creates the first Log specific to that cargo ID. In each subsequent step, employees update the Log with their IDs.
-
-## Details of UI
-
-### Login Menu and Panel
-
-
-
-### Admin and Employee System
-
-
-
-### Customer Section
-
-
-### Cargo Check Menu
